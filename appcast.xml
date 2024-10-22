@@ -16,15 +16,19 @@
         sparkle:os="iOS" />
     </item>
 
-    <!-- Future Version: 1.0.2 -->
+    <!-- Future Version: 1.0.2 (Critical Update) -->
     <item>
-      <title>Version 4.0.2</title>
+      <title>Version 1.0.2</title>
       <description>Bug fixes and performance improvements.</description>
       <pubDate>Tue, 30 Oct 2024 10:00:00 +0000</pubDate> <!-- Adjust the date for when you plan to release -->
       <enclosure 
         url="https://apps.apple.com/us/app/your-app-id" 
-        sparkle:version="4.0.2" 
+        sparkle:version="1.0.2" 
         sparkle:os="iOS" />
+      <!-- This makes the update mandatory -->
+      <sparkle:tags>
+        <sparkle:criticalUpdate />
+      </sparkle:tags>
     </item>
   </channel>
 </rss>
