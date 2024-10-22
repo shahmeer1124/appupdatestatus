@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>PDF Toolbox</title>
+    <description>1.0.2</description>
+    <link>https://your-website.com/appcast</link>
+    <item>
+      <title>Version 1.0.1</title>
+      <description>Initial release version 1.0.1</description>
+      <link>https://apps.apple.com/us/app/your-app-id</link>
+      <enclosure url="https://apps.apple.com/us/app/your-app-id" length="0" type="application/octet-stream" />
+      <version>1.0.1</version>
+      <build>1</build>
+      <platform>ios</platform>
+    </item>
+  </channel>
+</rss>
