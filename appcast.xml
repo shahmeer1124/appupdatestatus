@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>For unit test only</title>
+    <title>PDF Scanner - PDF Toolbox Updates</title>
+    <item>
+        <title>Version 1.0.2</title>
+        <description>New feature: Image to Text. Minor updates and improvements.</description>
+        <pubDate>Sun, 05 Nov 2024 15:20:13 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/us/app/pdf-scanner-pdf-toolbox/id6737291936" sparkle:version="1.0.2" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+    </item>
     <item>
         <title>Version 1.0.1</title>
         <description>Minor updates and improvements.</description>
@@ -11,3 +18,4 @@
     </item>
   </channel>
 </rss>
+
