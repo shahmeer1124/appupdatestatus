@@ -4,14 +4,6 @@
     <title>PDF Scanner - PDF Toolbox Updates</title>
 
     <item>
-        <title>Version 1.0.6</title>
-        <description>New features added: In-App Purchase and Document Translation.</description>
-        <pubDate>Tue, 12 Dec 2024 10:00:00 +0000</pubDate>
-        <enclosure url="https://apps.apple.com/us/app/pdf-scanner-pdf-toolbox/id6737291936" sparkle:version="1.0.6" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
-    </item>
-
-    <item>
         <title>Version 1.0.5</title>
         <description>Document Translation added.</description>
         <pubDate>Mon, 11 Dec 2024 16:16:13 +0000</pubDate>
