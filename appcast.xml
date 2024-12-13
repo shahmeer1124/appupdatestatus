@@ -2,6 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>PDF Scanner - PDF Toolbox Updates</title>
+        <item>
+        <title>Version 1.0.7</title>
+        <description>Bug fixes.</description>
+        <pubDate>Tue, 13 Dec 2024 15:16:00 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/us/app/pdf-scanner-pdf-toolbox/id6737291936" sparkle:version="1.0.7" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+    </item>
 
     <item>
         <title>Version 1.0.6</title>
