@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
+    <title>ProPDF Tools</title>
+    <item>
+        <title>Version 1.0.1</title>
+        <description>Minor Bug fixes.</description>
+        <pubDate>Sat, 17 FEB 2025 15:20:13 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.1" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+    </item>
   </channel>
 </rss>
