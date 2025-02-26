@@ -20,10 +20,10 @@
     </item>
 
     <item>
-        <title>Version 1.0.11+1</title>
+        <title>Version 1.0.11</title>
         <description>New features and bug fixes.</description>
         <pubDate>Mon, 27 FEB 2025 12:00:00 +0000</pubDate>
-        <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.11+1" sparkle:os="iOS" />
+        <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.11" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
     </item>
 
