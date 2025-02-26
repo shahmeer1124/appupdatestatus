@@ -3,9 +3,16 @@
   <channel>
     <title>ProPDF Tools</title>
     <item>
+        <title>Version 1.0.1</title>
+        <description>Minor Bug fixes.</description>
+        <pubDate>Sat, 17 FEB 2025 15:20:13 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.1" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+    </item>
+        <item>
         <title>Version 1.0.2</title>
         <description>User experience improved.</description>
-        <pubDate>Tue, 26 Feb 2025 15:20:13 +0000</pubDate>
+        <pubDate>Sat, 17 FEB 2025 15:20:13 +0000</pubDate>
         <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.2" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
     </item>
