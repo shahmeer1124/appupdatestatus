@@ -26,5 +26,13 @@
         <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.2" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
     </item>
+
+        <item>
+        <title>Version 1.0.3</title>
+        <description>Performance enhancements.</description>
+        <pubDate>Sat, 4 MAR 2025 02:00:00 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.3" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+    </item>
   </channel>
 </rss>
