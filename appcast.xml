@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>ProPDF Tools</title>
-
     <item>
         <title>Version 1.0.0</title>
         <description>Initial release after re-upload.</description>
