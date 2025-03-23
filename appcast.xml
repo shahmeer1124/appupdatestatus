@@ -7,14 +7,14 @@
         <description>Initial release after re-upload.</description>
         <pubDate>Sat, 17 FEB 2025 15:20:13 +0000</pubDate>
         <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.0" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+     
     </item>
     <item>
         <title>Version 1.0.1</title>
         <description>Bug fixes and improvements.</description>
         <pubDate>Sat, 20 FEB 2025 10:00:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.1" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+       
     </item>
 
     <item>
@@ -22,7 +22,7 @@
         <description>Performance enhancements.</description>
         <pubDate>Sat, 25 FEB 2025 12:00:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.2" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+     
     </item>
 
     <item>
@@ -30,7 +30,7 @@
         <description>More enhancements.</description>
         <pubDate>Sat, 4 MAR 2025 02:00:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.3" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+     
     </item>
 
     <item>
@@ -38,7 +38,7 @@
         <description>Latest update with improvements.</description>
         <pubDate>Sun, 23 MAR 2025 12:00:00 +0000</pubDate>
         <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.4" sparkle:os="iOS" />
-        <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+   
     </item>
   </channel>
 </rss>
