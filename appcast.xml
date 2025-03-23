@@ -35,7 +35,7 @@
         <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
     </item>
 
-        <item>
+    <item>
         <title>Version 1.0.4</title>
         <description>Major Bug fixes and error handling</description>
         <pubDate>Sun, 23 MAR 2025 07:58:00 +0000</pubDate>
