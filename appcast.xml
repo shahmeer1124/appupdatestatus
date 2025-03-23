@@ -9,7 +9,6 @@
         <enclosure url="https://apps.apple.com/pk/app/propdf-tools/id6740541651" sparkle:version="1.0.0" sparkle:os="iOS" />
         <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
     </item>
-
     <item>
         <title>Version 1.0.1</title>
         <description>Bug fixes and improvements.</description>
